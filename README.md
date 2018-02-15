@@ -8,5 +8,7 @@ Fierce and TCP Nmap scan are set to timeout after two minutes as both tend to go
 
 To make SE-recon-very-active.sh executable and to run
 
+
 chmod +x SE-recon-very-active.sh
+
 ./SE-recon-very-active.sh
